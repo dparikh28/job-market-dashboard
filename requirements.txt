@@ -1,4 +1,4 @@
 streamlit
 pandas
 requests
-pyhton-dotenv
+python-dotenv
